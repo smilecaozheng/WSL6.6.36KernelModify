@@ -1,5 +1,5 @@
-# wsl_kernel_modify
-更换WSL内核
+# 更换WSL内核
+
 在wsl中
 
 ### 1.安装编译依赖
