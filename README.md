@@ -25,8 +25,8 @@ tar -xzf linux-msft-wsl-6.6.36.6.tar.gz
 ### 4.下载编译配置文件
 
 ```
-git clone https://github.com/Zhangkuns/WSL6.6.36Kernel.git
-cp ~/WSL6.6.36Kernel/config-wsl-full ~/WSL2-Linux-Kernel-linux-msft-wsl-6.6.36.6/
+git clone https://github.com/smilecaozheng/WSL6.6.36KernelModify.git
+cp ~/WSL6.6.36KernelModify/config-wsl-full ~/WSL2-Linux-Kernel-linux-msft-wsl-6.6.36.6/
 ```
 
 ### 5.编译源码
